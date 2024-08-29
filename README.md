@@ -7,3 +7,6 @@
 
 #DFS
 (https://colab.research.google.com/drive/1nfE3JUsb_oLYtv2MYBNr-BFj06aY2emi#scrollTo=xagDlSbGwyOk)
+
+#STAR ALGORITHM
+(https://colab.research.google.com/drive/1lgCrXkSV20AH62MMKukeJ7tvmZGbxdlu#scrollTo=pYWkUjTazJpn)
