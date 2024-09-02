@@ -10,3 +10,6 @@
 
 #STAR ALGORITHM
 (https://colab.research.google.com/drive/1lgCrXkSV20AH62MMKukeJ7tvmZGbxdlu#scrollTo=pYWkUjTazJpn)
+
+#LAB 03
+[https://colab.research.google.com/drive/1WAwvApXWES8MD_6X5yNuwRs9t8cw8QDd#scrollTo=hKjXgsH7iiTl]
