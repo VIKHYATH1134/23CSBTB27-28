@@ -19,3 +19,6 @@
 
 #LAB 05
 [https://colab.research.google.com/drive/1pvWqJjYU5mm-tB1b2e5ndxy0wjZnDKrB#scrollTo=XYX7G2D8BPKC]
+
+#LAB 06
+[https://colab.research.google.com/drive/1tcAx-2PhHpfzkympcZzYWmNfpio0rHxG#scrollTo=HkZhtaWP87Cl]
