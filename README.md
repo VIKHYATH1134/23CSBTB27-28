@@ -34,7 +34,7 @@
 [https://colab.research.google.com/drive/1UuAqgmtayD9PzGfXqDpDqgh30pJ5y6dX#scrollTo=ge5zDoTJAldC]
 
 #LAB 10
-[https://colab.research.google.com/drive/1UuAqgmtayD9PzGfXqDpDqgh30pJ5y6dX#scrollTo=ge5zDoTJAldC]
+[https://colab.research.google.com/drive/1CM1Qthm7XzDXNyAJ1h1a0HADmJLhL15y#scrollTo=zyirTR61GJ-n]
 
 
 
