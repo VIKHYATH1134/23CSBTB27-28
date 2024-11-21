@@ -22,3 +22,19 @@
 
 #LAB 06
 [https://colab.research.google.com/drive/1tcAx-2PhHpfzkympcZzYWmNfpio0rHxG#scrollTo=HkZhtaWP87Cl]
+
+#LAB 07
+[https://colab.research.google.com/drive/1QFaXm4cYVDjpQSs3daybdvUIgeYIWwEo]
+
+#LAB 08
+[https://colab.research.google.com/drive/153OvVaQrPVB0PwnM2funCvUZlcXDc2DD]
+
+#LAB 09
+
+[]
+
+
+
+
+
+
